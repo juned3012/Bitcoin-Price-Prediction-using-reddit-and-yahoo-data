@@ -25,3 +25,6 @@ The target variable was the Bitcoin closing price. The dataset was split into tr
 
 #### Prediction
 Using the trained model, I predicted Bitcoin prices, leveraging the last 60 days of closing prices to predict the price for May 1, 2024, combining historical data and social media sentiment for robust predictions.
+
+#####How to Implement 
+
