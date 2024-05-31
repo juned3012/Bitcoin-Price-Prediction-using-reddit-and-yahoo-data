@@ -34,4 +34,3 @@ Using the trained model, Bitcoin prices were predicted by leveraging the last 60
 
 ---
 
-This description covers the key aspects of your project, including its objectives, methodology, and implementation steps. Let me know if you need any further adjustments or additions!
